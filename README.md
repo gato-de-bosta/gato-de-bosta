@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hallo.
 
 <!--
 **gato-de-bosta/gato-de-bosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
